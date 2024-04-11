@@ -1,5 +1,5 @@
 # Description
-My final project assignment repo
+This project will use the Raspberry Pi 3 Model B and an Adafruit I2C based OLED screen to make a customized Yocto image and display input information from the kernel onto the screen. 
 # Project Overview
 [Link](https://github.com/cu-ecen-aeld/final-project-spencermanning/wiki)
 # Schedule Page
